@@ -79,7 +79,7 @@ To get the project up and running locally, follow these steps:
 ### Installation
 
 # 1. Clone the repository:
-git clone https://github.com/mansiwalia/Study-Notionn.git
+git clone https://github.com/bhumi-125/Study_Notionn
 
 # 2. Navigate to the project directory:
 cd Study-Notion
